@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key><string>OnePlus Buds</string>
+    <key>CFBundleDisplayName</key><string>OnePlus Buds</string>
+    <key>CFBundleIdentifier</key><string>com.oneplusbuds.mac</string>
+    <key>CFBundleExecutable</key><string>OnePlusBuds</string>
+    <key>CFBundleIconFile</key><string>AppIcon</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleShortVersionString</key><string>1.0.0</string>
+    <key>CFBundleVersion</key><string>1</string>
+    <key>LSMinimumSystemVersion</key><string>14.0</string>
+    <key>NSPrincipalClass</key><string>NSApplication</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>CFBundleURLTypes</key>
+    <array><dict>
+        <key>CFBundleURLName</key><string>com.oneplusbuds.mac</string>
+        <key>CFBundleURLSchemes</key><array><string>oneplusbuds</string></array>
+    </dict></array>
+    <key>NSBluetoothAlwaysUsageDescription</key>
+    <string>OnePlus Buds needs Bluetooth to talk to your earbuds (noise control, EQ, battery).</string>
+</dict>
+</plist>
