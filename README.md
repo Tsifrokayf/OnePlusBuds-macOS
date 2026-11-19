@@ -1,6 +1,6 @@
 # OnePlus Buds for macOS
 
-Нативное приложение для macOS (SwiftUI) для управления наушниками **OnePlus Buds 4 / Pro 3** — порт Windows-версии [Oneplus-buds-Win-Companion](https://github.com/Thomaspatrick14/Oneplus-buds-Win-Companion). Работает напрямую по Bluetooth RFCOMM, без телефона.
+Нативное приложение для macOS (SwiftUI) для управления наушниками **OnePlus Buds 4 / Pro 3** Другие модели (OnePlus Buds Z/Pro/Pro 2/3, Nord Buds, OPPO Enco) определяются, но не проверялись. — доработанный порт Windows-версии [Oneplus-buds-Win-Companion](https://github.com/Thomaspatrick14/Oneplus-buds-Win-Companion). Работает напрямую по Bluetooth RFCOMM, без телефона.
 
 A native SwiftUI macOS companion for OnePlus Buds 4 / Pro 3 (port of the Windows companion). Talks to the earbuds directly over Bluetooth RFCOMM — no phone needed.
 
