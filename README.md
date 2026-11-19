@@ -11,6 +11,7 @@ A native SwiftUI macOS companion for OnePlus Buds 4 / Pro 3 (port of the Windows
 </p>
 
 <p align="center"><img src="docs/popup-aurora.png" width="620" alt="Окно при подключении"></p>
+<img width="348" height="173" alt="image" src="https://github.com/user-attachments/assets/55cc204b-82bd-4753-bfbe-6b8520fe3d25" />
 
 ## Возможности / Features
 
